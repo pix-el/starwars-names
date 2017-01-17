@@ -1,0 +1,23 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Get random star wars character names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pix-el/starwars-names.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pix-el/starwars-names/issues"
+  },
+  "homepage": "https://github.com/pix-el/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "^1.0.0"
+  }
+}
