@@ -49,11 +49,9 @@ end_of_record
 TN:
 SF:C:\aminode\starwars-names\src\index.js
 FN:10,random
-FN:22,doSomething
-FNF:2
+FNF:1
 FNH:1
 FNDA:2,random
-FNDA:0,doSomething
 DA:1,1
 DA:2,1
 DA:3,1
@@ -65,11 +63,8 @@ DA:14,1
 DA:15,1
 DA:16,3
 DA:18,1
-DA:22,1
-DA:23,0
-DA:24,0
-LF:14
-LH:12
+LF:11
+LH:11
 BRDA:11,1,0,1
 BRDA:11,1,1,1
 BRDA:11,2,0,2
