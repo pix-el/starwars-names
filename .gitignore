@@ -1,3 +1,7 @@
 node_modules/
 npm-debug.log
 coverage/
+dist/
+*.tgz
+package/
+.nyc_output/

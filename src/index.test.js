@@ -1,5 +1,5 @@
 var expect = require('chai').expect;
-var starWars = require('./index');
+import starWars from './index';
 
 describe('starwars-names',function(){
     
